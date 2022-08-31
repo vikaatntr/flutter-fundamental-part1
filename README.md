@@ -63,15 +63,38 @@ A new Flutter project.
 
 ![Screenshoot project_baru](images/16.png)
 
-## Getting Started
+# Praktikum 3: Menerapkan Widget Dasar
 
-This project is a starting point for a Flutter application.
+1. Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets. Kemudian menambahkan kode dalam file basic_widget
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshoot project_baru](images/17.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Lakukan import file text_widget.dart ke main.dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshoot project_baru](images/18.png)
+
+3. Buat sebuah file image_widget.dart di dalam folder basic_widgets
+
+![Screenshoot project_baru](images/19.png)
+
+# Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
+
+1. Buat file di basic_widgets > loading_cupertino.dart (Cupertino Button dan Loading Bar)
+
+![Screenshoot project_baru](images/20.png)
+
+2. Buat file di basic_widgets > fab_widget.dart (FAB)
+
+![Screenshoot project_baru](images/21.png)
+
+3. Ubah isi kode main.dart (Scaffold Widget)
+![Screenshoot project_baru](images/23.png)
+
+4. Ubah isi kode main.dart seperti berikut. (Dialog Widget)
+![Screenshoot project_baru](images/24.png)
+
+5. Contoh penggunaan TextField widget
+![Screenshoot project_baru](images/25.png)
+
+6. Date and Time Picker
+![Screenshoot project_baru](images/26.png)
